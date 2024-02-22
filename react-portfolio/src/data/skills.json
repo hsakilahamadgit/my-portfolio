@@ -1,0 +1,32 @@
+[
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "JavaScript",
+    "imageSrc": "skills/javascript.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "Java",
+    "imageSrc": "skills/java.png"
+  },
+
+  {
+    "title": "Spring-Boot",
+    "imageSrc": "skills/spring.png"
+  },
+
+  {
+    "title": "MYSQL",
+    "imageSrc": "skills/mysql.png"
+  }
+]

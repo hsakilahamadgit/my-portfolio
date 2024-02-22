@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Library App",
+    "imageSrc": "projects/project.png",
+    "description": "Kindly assist: Borrow, return, check availability, and query librarian in this library app project",
+    "skills": [
+      "Java",
+      "Spring-Boot",
+      "Spring data JPA",
+      "Reactjs",
+      "Mysql",
+      "Okta",
+      "Hibernate"
+    ],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/hsakilahamadgit/Library-App-Web-Application-FullStack"
+  },
+  {
+    "title": "Myntra App",
+    "imageSrc": "projects/project.png",
+    "description": "Optimize your shopping experience: Select, add to cart, remove, and review items effortlessly with our Myntra app project.",
+    "skills": ["React", "Redux", "Html", "CSS", "Bootstrap"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/hsakilahamadgit/complete-react-youtube"
+  },
+  {
+    "title": "Social media App",
+    "imageSrc": "projects/project.png",
+    "description": "Elevate social interactions: Post, delete, comment, and tag seamlessly within our social media app project for enhanced connectivity.",
+    "skills": ["React", "Java", "Spring-Boot", "Mysql"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/hsakilahamadgit/social-media"
+  }
+]
